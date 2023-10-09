@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+header img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+ul.square-list {
+    list-style-type: square;
+}
+
+
+
+body {
+    background-color: #f2f2f2; 
+    color: #452a5c; 
+    font-family: Arial, sans-serif; 
+}
+
+header {
+    text-align: center;
+    margin: 50px 0;
+}
+
+h1 {
+    font-size: 2em; 
+    color: #7d3c98; 
+}
+
+main {
+    margin: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 1.5em; 
+    color: #7d3c98; 
+}
+
+p {
+    line-height: 1.6; 
+}
+
+a {
+    color: #7d3c98; 
+}
+
+ul.square-list {
+    list-style-type: square; 
+}
+
+img {
+    max-width: 100%; 
+}
+
+
+header a {
+    color: #452a5c;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+    color: #452a5c;
+}
+
+\
+img {
+    border: 2px solid #7d3c98; /* Purple border */
+}
+
+/* Change the hover color of links */
+a:hover {
+    color: #7d3c98; /* Darker purple on hover */
+}
+
+/* Add some padding around sections */
+section {
+    padding: 20px;
+    background-color: #ffffff; /* White background for sections */
+}
+
+/* Add rounded corners to sections */
+section {
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
